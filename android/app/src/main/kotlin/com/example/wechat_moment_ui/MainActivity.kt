@@ -1,0 +1,5 @@
+package com.example.wechat_moment_ui
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
